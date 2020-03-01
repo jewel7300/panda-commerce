@@ -19,3 +19,22 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-color:yellow;
+}
+.cat2{
+    background-color: palevioletred;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
